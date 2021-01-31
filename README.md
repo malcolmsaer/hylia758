@@ -8,6 +8,8 @@ https://api.netlify.com/api/v1/badges/9c9f8d4c-42ed-4e50-bc01-c9482ab4d6ae/deplo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/9c9f8d4c-42ed-4e50-bc01-c9482ab4d6ae/deploy-status)](ys)
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ c5442904-236b-4a50-b4ab-85226479176b/deploy-status)](https://app.netlify.com/sites/wellno/deploys)
+
 lol
 
 
