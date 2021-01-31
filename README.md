@@ -3,6 +3,11 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e632551-ada5-4d91-9675-84a1d27711b8/deploy-status)](https://app.netlify.com/sites/keen-meninsky-c72f74/deploys)
 
+https://api.netlify.com/api/v1/badges/9c9f8d4c-42ed-4e50-bc01-c9482ab4d6ae/deploy-status
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9c9f8d4c-42ed-4e50-bc01-c9482ab4d6ae/deploy-status)](ys)
+
+
 lol
 
 
