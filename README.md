@@ -1,3 +1,10 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e632551-ada5-4d91-9675-84a1d27711b8/deploy-status)](https://app.netlify.com/sites/keen-meninsky-c72f74/deploys)
+
+
+lol
+
+
+
 # A simple starter kit for Eleventy
 
 Hylia is a lightweight [Eleventy](https://11ty.io) starter kit with [Netlify CMS](https://www.netlifycms.org/) pre-configured, so that you can one-click install a progressive, accessible blog in minutes. It also gives you a well organised starting point to extend it for yourself.
