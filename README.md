@@ -1,6 +1,8 @@
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e632551-ada5-4d91-9675-84a1d27711b8/deploy-status)](https://app.netlify.com/sites/keen-meninsky-c72f74/deploys)
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/7e632551-ada5-4d91-9675-84a1d27711b8/deploy-status)](https://app.netlify.com/sites/keen-meninsky-c72f74/deploys)
+
 lol
 
 
